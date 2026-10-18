@@ -1,0 +1,33 @@
+Changelog
+=========
+Based on LineageOS SM6150 tree
+
+05/06/2026
+• Added LunarisDolby
+• Modifed PowerHint.json
+• Sync with latest Shirayuki
+
+12/06/2026
+• added script Scheduler tunning
+• added script Memory Management
+• Added Leica HolyBear 4.5
+
+26/07/2026
+• use Reflex as default CPUFreq governor
+• add dynamic ZRAM configuration
+
+08/08/2026
+• Switch to Bluetooth audio policy configuration v7.0
+
+12/08/2026
+• Fixed Can't install gapps in vanilla build
+• Fixed Bootlop issue
+
+05/09/2026
+• Sync Lunaris Dolby to latest source
+• Merge lineage changes
+
+06/10/2026
+• Optimize SurfaceFlinger display
+• Enable display smooth montion
+• Switch to Kawase2 render engine
