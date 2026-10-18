@@ -11,6 +11,7 @@ AXION_OFFICIAL_DEVICES := \
     husky \
     tokay \
     caiman \
+    courbet \
     komodo \
     frankel \
     blazer \
@@ -128,3 +129,4 @@ AXION_OFFICIAL_MAINTAINERS_LG8n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_LH7n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_S666LN := KimelaZPrjkt.
 AXION_OFFICIAL_MAINTAINERS_X6882 := ー々hans.
+AXION_OFFICIAL_MAINTAINERS_courbet := Aciss.?
